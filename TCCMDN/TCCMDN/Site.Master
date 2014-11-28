@@ -44,7 +44,7 @@
                 <p class="site-title">
                     <a runat="server" href="~/">TCC - Tennis Club Chavornay</a>
                     <br />
-                    <p><%  
+                    <%  
                            string hello;
                            //hour
                            System.DateTime moment = System.DateTime.Now;
@@ -54,7 +54,7 @@
                            Response.Write(System.DateTime.Now.Day + "."+System.DateTime.Now.Month + "."+ System.DateTime.Now.Year + " " + System.DateTime.Now.Hour + ":" + System.DateTime.Now.Minute + ", " + hello); 
                        %>
 
-                    </p>
+                    
                 </p>
             </div>
             <div class="float-right">

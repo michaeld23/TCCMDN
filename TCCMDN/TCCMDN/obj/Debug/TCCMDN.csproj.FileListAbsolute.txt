@@ -29,6 +29,6 @@ C:\Users\Michael.DUVOISIN\Desktop\TCCMDN\TCCMDN\TCCMDN\bin\DotNetOpenAuth.OpenId
 C:\Users\Michael.DUVOISIN\Desktop\TCCMDN\TCCMDN\TCCMDN\bin\DotNetOpenAuth.AspNet.xml
 C:\Users\Michael.DUVOISIN\Desktop\TCCMDN\TCCMDN\TCCMDN\bin\Microsoft.AspNet.Membership.OpenAuth.xml
 C:\Users\Michael.DUVOISIN\Desktop\TCCMDN\TCCMDN\TCCMDN\bin\Microsoft.AspNet.FriendlyUrls.xml
-C:\Users\Michael.DUVOISIN\Desktop\TCCMDN\TCCMDN\TCCMDN\obj\Debug\TCCMDN.csprojResolveAssemblyReference.cache
 C:\Users\Michael.DUVOISIN\Desktop\TCCMDN\TCCMDN\TCCMDN\obj\Debug\TCCMDN.dll
 C:\Users\Michael.DUVOISIN\Desktop\TCCMDN\TCCMDN\TCCMDN\obj\Debug\TCCMDN.pdb
+C:\Users\Michael.DUVOISIN\Desktop\TCCMDN\TCCMDN\TCCMDN\obj\Debug\TCCMDN.csprojResolveAssemblyReference.cache
