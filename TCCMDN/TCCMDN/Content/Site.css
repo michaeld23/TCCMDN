@@ -404,10 +404,10 @@ fieldset {
         border: 1px solid #e2e2e2;
         background: #fff;
         color: #333;
-        font-size: 1.2em;
+        font-size: 1.0em;
         margin: 5px 0 6px 0;
         padding: 5px;
-        width: 300px;
+        width: 150px;
     }
 
     textarea {
@@ -732,3 +732,8 @@ tr.pager td {
         }
 }
 /* END: Mobile Styles */
+
+
+.hiddenField {
+    display:none;
+}
